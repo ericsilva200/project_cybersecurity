@@ -1,2 +1,2 @@
 # project_cybersecurity
-O projeto consiste num programa escrito em Python capaz de criptografar e descriptografar arquivos utilizando a biblioteca Pycryptodome além de realizar uma análise de vírus desses arquivos através das Yara Rules e da biblioteca yara-python.
+O projeto consiste num programa escrito em Python capaz de criptografar e descriptografar arquivos utilizando a biblioteca Pycryptodome além de realizar uma análise de vírus desses arquivos através das Yara Rules e da biblioteca yara-python. Este é um projeto desenvolvido para a disciplina de Linguagens para Aplicação Comercial - MATA76 ministrado pela professora Laise Cavalcante na Universidade Federal da Bahia.
